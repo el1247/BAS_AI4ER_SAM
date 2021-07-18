@@ -90,3 +90,4 @@ io/
 
 # History files
 .history
+notebooks/exploratory/matTest/SO_Argo_all.mat
