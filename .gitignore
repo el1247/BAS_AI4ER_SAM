@@ -88,8 +88,11 @@ io/
 # Mypy cache
 .mypy_cache/
 
+.gitignore
+
 # History files
 .history
 notebooks/exploratory/matTest/SO_Argo_all.mat
 notebooks/exploratory/GMMUK2Class2_Meta_Updated_31
 notebooks/exploratory/GMM_UK_2Class_R1_Meta
+notebooks/exploratory/GMM_UK_2Class_R1_Meta_Full
