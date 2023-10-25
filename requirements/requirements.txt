@@ -85,7 +85,7 @@ threadpoolctl==2.1.0
 toolz==0.11.1
 tornado>=6.3.3
 traitlets==5.0.5
-urllib3==1.26.17
+urllib3>=1.26.18
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
